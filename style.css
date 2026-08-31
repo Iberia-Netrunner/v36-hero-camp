@@ -9,4 +9,20 @@
 .hero .btn {
     background-color: #fde68a;
     color: #0f172a;
+    font-weight: 600;
+    margin-top: 1rem;
+    padding: 0.2rem;
+    border-radius: 8px;
+    text-decoration: none;
+    font-size: 0.7rem;
+
+}
+
+.card {
+    background-color: lightgrey;
+    color: #1e293b;
+    padding-left: 2px;
+    margin-top: 1.6rem;
+    font-size: 15px;
+    border-radius: 8px;
 }
