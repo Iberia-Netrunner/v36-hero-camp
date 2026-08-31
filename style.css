@@ -1,7 +1,7 @@
 .hero {
     background-color: #0f3d3e;
     padding: 3rem 1.5rem;
-    color: #fde68a;
+    color:rgb(189, 131, 65);
     font-family: sans-serif;
 
 }
@@ -14,11 +14,11 @@
     padding: 0.2rem;
     border-radius: 8px;
     text-decoration: none;
-    font-size: 0.7rem;
+    font-size: 1rem;
 
 }
 
-.card {
+.regler {
     background-color: lightgrey;
     color: #1e293b;
     padding-left: 2px;
